@@ -1,0 +1,8 @@
+======
+Neuron
+======
+
+Neuron is a mini sip server.
+
+chinese:
+提供sip分机的注册，只对sip消息做轻量级的处理.大部分sip消息直接发给对端。
